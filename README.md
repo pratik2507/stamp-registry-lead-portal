@@ -75,8 +75,4 @@ The website focuses on **high-quality lead capture**, legal clarity, and a simpl
 
 ---
 
-## 🚀 Setup Instructions
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/stamp-registry-lead-portal.git
